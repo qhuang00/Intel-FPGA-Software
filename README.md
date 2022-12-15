@@ -9,6 +9,6 @@
 - ### OpenCL demos
 
 ## Intel Agilex PCIe acceleration cards (third parties')
-- ### Terasic DE10 Agilex card
+- ### [Terasic DE10 Agilex card](https://github.com/qhuang00/Intel-FPGA-Software/blob/67ab32c5f1b39fb843ab891e1742934ddafd29eb/Agilex/Terasic.md) 
 - ### Embedway Agilex F-014 card
 - ### Alibaba Agilex F-027 card
