@@ -1,7 +1,14 @@
-# Intel FPGA Innovation Center (Chong Qing City, China)
-## Running oneAPI in Intel A10 PAC
-## Running oneAPI in Intel S10/D5005 PAC
-## Running oneAPI in Intel Agilex PCIe acceleration cards
-### Terasic DE10 Agilex card
-### Embedway Agilex F-014 card
-### Alibaba Agilex F-027 card
+# Intel FPGA China Innovation Center 
+## Intel A10 PAC (PCIe Acceleration Card)
+- ### oneAPI demos
+- ### OpenCL demos
+- ### FPGA AI Suite demo (RTL based)
+- ### OpenVINO AI demo (OpenCL based)
+## Intel S10/D5005 PAC (PCIe Acceleration Card)
+- ### oneAPI demos
+- ### OpenCL demos
+
+## Intel Agilex PCIe acceleration cards (third parties')
+- ### Terasic DE10 Agilex card
+- ### Embedway Agilex F-014 card
+- ### Alibaba Agilex F-027 card
